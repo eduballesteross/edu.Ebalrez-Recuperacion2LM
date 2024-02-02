@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+header {
+	background-color: indianred;
+	display: flex;
+
+}
+
+.persona {
+	width: 10%;
+	margin-left: 2%;
+	margin-right: 30%;
+	border-radius: 100%;
+
+}
+
+h1 {
+	color: aqua;
+	margin-top: 3rem;
+}
+
+nav {
+	background-color: lightsalmon;
+	padding: 1%;
+}
+
+.tabla1 {
+	border: solid white;
+	border-width: 2px;
+	border-collapse: collapse;
+	color: white;
+	width: 20%;
+	margin-left: 40%;
+	text-align: center;
+
+}
+
+.formulario1 {
+	margin-left: 30%;
+}
+
+main {
+	background-color: lightgoldenrodyellow;
+}
+
+.linea {
+	width: 100%;
+	height: 5px;
+	background-color: blue;
+}
+
+.tabla2 {
+	width: 35%;
+}
+
+footer {
+	text-align: center;
+	background-color: lightcoral;
+}
+
+.tabla3{
+	border: solid aqua;
+	border-collapse: collapse;
+	border-width: 2px;
+}
